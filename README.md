@@ -2,24 +2,14 @@
 
 
 
-## Skills
+## Habilidades
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- Trabajo en Equipo
 
-#### This Skill
+- Autodicata
 
-- Experience
-- Achievements
-- Evidence
+- Flexibilidad
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Educación
 
@@ -47,13 +37,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **AG Software** (July 2019)
 Ruby on Rails developer
-- Crear y mantener codigo existente
-- Actualizacion de software de desarrollo
+- Responsable de desarrollo y correción de bugs
+- Optimizar y actualizar el software
 
 **CS50xni** - Fundacion UNO (February 2019)
 Teacher assistant
-- Enseñar programación básica
-- Asistir a los estudiantes
-- Resolver nuevos problemas propuestos para el curso
+- programación básica
+- Asistir a los estudiantes con problems-set
+- Resolver nuevos problemas propuestos
 
 # Hobbies
